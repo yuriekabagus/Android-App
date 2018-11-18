@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="action_bar">56dp</dimen>
+    <dimen name="title_action_bar">18dp</dimen>
+    <dimen name="input_text">14dp</dimen>
+    <dimen name="sign_up">12dp</dimen>
+</resources>
